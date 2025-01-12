@@ -76,7 +76,7 @@ This file is where you define your module dependencies and versions. It allows G
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/go-app-structure.git
+git clone https://github.com/Sunat2001/go-app-structure.git
 cd go-app-structure
 ```
 
